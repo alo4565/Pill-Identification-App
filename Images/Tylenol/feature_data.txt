@@ -1,0 +1,11 @@
+Pill Name: Tylenol 
+huMoment0 = 0.5525099466430875 
+huMoment1 = 1.7443042628101566 
+huMoment2 = 2.1275448858492596 
+huMoment3 = 3.062679932596995 
+huMoment4 = -0.8707605099879139 
+huMoment5 = -0.6913928712593292 
+huMoment6 = -6.380653580590762 
+Compactness = 0.04690554663388624 
+Hue = 70.6 
+Saturation = 55.2 

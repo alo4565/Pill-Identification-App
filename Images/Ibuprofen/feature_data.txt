@@ -1,0 +1,11 @@
+Pill Name: Ibuprofen 
+huMoment0 = 0.7783241763039399 
+huMoment1 = 5.411529087792782 
+huMoment2 = 6.156223548547969 
+huMoment3 = 10.467323175689348 
+huMoment4 = 14.036218910531886 
+huMoment5 = 4.2557254867008965 
+huMoment6 = -5.95190863215975 
+Compactness = 0.8058203650164579 
+Hue = 8.8 
+Saturation = 149.0 

@@ -1,0 +1,11 @@
+Pill Name: Pepcid 
+huMoment0 = 0.7980856491823627 
+huMoment1 = 5.344691985471469 
+huMoment2 = 7.128906055093101 
+huMoment3 = 11.91382512690692 
+huMoment4 = -11.698096121283815 
+huMoment5 = -7.9231034171663435 
+huMoment6 = -2.8210209769863765 
+Compactness = 0.8948913192043587 
+Hue = 121.6 
+Saturation = 33.4 
